@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Rahul", "grade": "A", "section": "1" },
+  { "id": 2, "name": "Priya", "grade": "B", "section": "2" },
+  { "id": 3, "name": "Arjun", "grade": "A+", "section": "1" }
+]
